@@ -1,0 +1,30 @@
+body{
+    background-color: cyan;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+td,table{
+    margin: auto;
+    border: 2px solid black;
+}
+thead{
+    background-color: aquamarine;
+}
+div{
+    align-items: center;
+    background-color: green;
+    align-content: center;
+}
+button{
+    
+    
+    border-radius: 3rem;
+    border: 2px solid black;
+}
+#btn{
+    border: 2px solid red;
+    align-items: center;
+    align-content: center;
+}
